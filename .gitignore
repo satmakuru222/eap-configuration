@@ -1,5 +1,5 @@
 data
 deployments
 log
-github-wildfly-config.xml
+*github-wildfly-config.xml*
 
